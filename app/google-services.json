@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618394316742",
+    "firebase_url": "https://eventdatabasekovathana5608.firebaseio.com",
+    "project_id": "eventdatabasekovathana5608",
+    "storage_bucket": "eventdatabasekovathana5608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618394316742:android:a68cb3f3d15be32d654cc7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618394316742-tcsargtimmc3nql7g3334ru8kv6prpto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yuPw7bZsFu21jz7sYWTS0G4AoN6JdSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618394316742-tcsargtimmc3nql7g3334ru8kv6prpto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
